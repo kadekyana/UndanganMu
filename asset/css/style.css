@@ -5,6 +5,7 @@
 
 #wrapper {
   background-color: #93c6e7;
+  background-image: url(../gambar/bg.png);
   height: 100vh;
 }
 a {
@@ -35,7 +36,7 @@ a:hover {
 }
 #fitur {
   background-color: #8d8d8d;
-  background-image: url(../asset/gambar/bg.png);
+  background-image: url(../gambar/bg.png);
   background-repeat: repeat;
   overflow: hidden;
 }
@@ -72,6 +73,7 @@ a:hover {
 }
 #end {
   background-color: #93c6e7;
+  background-image: url(../gambar/bg.png);
   color: whitesmoke;
   text-align: center;
   padding-top: 20px;
