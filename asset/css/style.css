@@ -35,7 +35,7 @@ a:hover {
 }
 #fitur {
   background-color: #8d8d8d;
-  background-image: url(/asset/gambar/bg.png);
+  background-image: url(../asset/gambar/bg.png);
   background-repeat: repeat;
   overflow: hidden;
 }
